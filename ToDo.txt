@@ -5,3 +5,5 @@
 3. Create separate encoding() and decoding() functions and call those functions from main()
 4. Create a class with a constructor which will have the encoder/decoder dict as a private variable.
 5. The dict should be loaded from an external JSON file.
+
+Also, please maintain the README.md well.
