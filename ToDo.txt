@@ -1,1 +1,7 @@
-Test Encoder
+1. Create a suitable Decoder - Just flip the encoder dict to make a decoder dict.
+2. Create a main function which will accept - 
+    a. Whether to Encode or Decode
+    b. The string to encode/decode
+3. Create separate encoding() and decoding() functions and call those functions from main()
+4. Create a class with a constructor which will have the encoder/decoder dict as a private variable.
+5. The dict should be loaded from an external JSON file.
