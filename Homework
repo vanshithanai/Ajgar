@@ -1,3 +1,6 @@
 1. Make a list of 5 numbers taken from the user, sort it into asceding/descending as per user instruction
 2. Convert Fahrenheit to Celsius and vice-versa
-3. Check if a word is palindrome
+3. Check if a word is palindrome, if not then make it into one
+4. Find lcm of 2 numbers
+5. Find square root and round down to the nearest integer
+

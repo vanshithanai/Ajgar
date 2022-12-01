@@ -5,7 +5,8 @@ www = www.lower()
 revwww = www[::-1]
 
 if www == revwww:
-    print("ulta seedha same")
+    print("Already palindrome")
 else:
-    print("ulta seedha not same")
+    pali = www + revwww[1:]
+    print("This is your palindrome: ", pali)
 
