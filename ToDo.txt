@@ -1,5 +1,5 @@
 To Do:
-1. Practice
+1. Practice!!
 
 DONE:
 1. Create a suitable Decoder - Just flip the encoder dict to make a decoder dict.
