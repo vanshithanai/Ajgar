@@ -19,6 +19,8 @@ All my python experiments are saved here for posterity.
 
 8. *SentenceUnshuffle* - Given a shuffled sentence, reconstruct and return the original sentence with numbers at the end of each word indicating its position.
 
+9. *text_to_speech* - Converts a given text to speech output. The speech output is fine, but the `save_to_file()` output is empty and hangs after the 3rd attempt.
+
 
 
 More details about each project will be posted when work is completed.
