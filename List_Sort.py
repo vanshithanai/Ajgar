@@ -3,7 +3,7 @@
 dotdot = input("Enter numbers separated with space: ")
 todo = input("Enter A for Ascending and D for Descedning: ")
 dotdot = (dotdot.split(" "))
-
+print(dotdot)
 numdotdot = [float(i) for i in dotdot]
 
 if todo == "A":
