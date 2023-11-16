@@ -11,7 +11,7 @@ nums = []
 
 for a in range(len(arr)):
     if arr[a] == arr[a+1]:
-        # a ko aage badha do
+        a += 1
     else:
         k += 1
         nums = nums.append(arr[a])
